@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil! 😁
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilgnerFrasao\&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilgnerFrasao&theme=radical\&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilgnerFrasao&layout=compact&theme=radical)](https://github.com/WilgnerFrasão/github-readme-stats)
 
 </div>
