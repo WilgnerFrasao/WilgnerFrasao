@@ -4,7 +4,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0193dc&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0193dc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Wilgner+Frasão;estou+em+desenvolvimento+na+area+Front-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0193dc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Wilgner+Frasão;estou+em+desenvolvimento+na+área+front-end)](https://git.io/typing-svg)
 
 <p style= "font-family: 'Roboto Mono', monospace"> Olá, meu nome é Wilgner. Atualmente me dedico a área de desenvolvimento web,como ênfase no Front-end, mas também sou um grande entusiatas de robótica e automação.
 Gosto muito de aprender coisas novas e estou sempre estudando para aperfeiçoar cada vez mais minhas habilidades.</p>
