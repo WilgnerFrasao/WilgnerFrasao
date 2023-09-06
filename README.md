@@ -1,17 +1,20 @@
 ## Bem-vindo(a) ao meu perfil! 😁
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=040d2c&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=040d2c&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Wilgner+Frasão;)](https://git.io/typing-svg)
 
 
-<p style= "font-family: 'Roboto Mono', monospace"> Olá,meu nome é Wilgner.Atualmente me dedico a área de desenvolvimento web,como ênfase no Front-end, mas também sou um grande entusiatas de robótica e automação.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0193dc&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0193dc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Wilgner+Frasão;)](https://git.io/typing-svg)
+
+<p style= "font-family: 'Roboto Mono', monospace"> Olá, meu nome é Wilgner. Atualmente me dedico a área de desenvolvimento web,como ênfase no Front-end, mas também sou um grande entusiatas de robótica e automação.
 Gosto muito de aprender coisas novas e estou sempre estudando para aperfeiçoar cada vez mais minhas habilidades.</p>
+<br>
 
-<picture aling="center">
-<img src ="https://github-readme-stats.vercel.app/api?username=WilgnerFrasao&show_icons=true&theme=algolia&rank_icon=github ">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilgnerFrasao&show_icons=true&theme=algolia&layout=compact" />
-</picture>
+<div aling="center">
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilgnerFrasao&show_icons=true&theme=algolia )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilgnerFrasao&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+</div>
  
 #### :computer: Minhas principais tecnologias e plataformas:
 
@@ -27,11 +30,10 @@ Gosto muito de aprender coisas novas e estou sempre estudando para aperfeiçoar 
 </div>
 
 #### :book: No momento estou estudando:
-
+<div style="display: inline-block">
   <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  
   <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-          
+</div>          
           
 <br>
 
@@ -49,7 +51,7 @@ Gosto muito de aprender coisas novas e estou sempre estudando para aperfeiçoar 
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WilgnerFrasao&bg_color=040d2c&color=dbc7d9&line=0192da&point=659f98&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div style="display:grid;grid-template-columns: 1fr 1fr">
+<div style="display:grid; grid-template-columns: 1rf 1fr">
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=WilgnerFrasao&repo=projeto-listagem-pokemon&bg_color=050f2c&border_color=30A3DC&show_icons=true&icon_color=018cd2&title_color=0271ae&text_color=FFF)](https://github.com/WilgnerFrasao/projeto-listagem-pokemon.git)
 
@@ -66,5 +68,5 @@ Gosto muito de aprender coisas novas e estou sempre estudando para aperfeiçoar 
 
 
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=040d2c&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0193dc&height=120&section=footer"/>
   </div>
